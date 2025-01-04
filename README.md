@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangzhangup
-- 👀 I’m interested in Computer Vision and Robotics
+- 👀 I’m interested in AI and Robotics
 - 🌱 I’m currently learning 
 - 📫 How to reach me: wangzhang@outlook.com
 
